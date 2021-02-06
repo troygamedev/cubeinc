@@ -1,0 +1,9 @@
+Controls:
+Swipe with one finger to move player.
+
+Adjust zoom and camera angle with two fingers.
+
+Use the rewind button at the bottom left corner to undo one step.
+
+Objective:
+Move player to end block (marked with star) matching in the same color.
