@@ -55,7 +55,8 @@ public class PlayerScript : MonoBehaviour {
         playerRenderer = GetComponentInChildren<MeshRenderer>();
         playerColorCon = GetComponentInChildren<ColorController>();
 
-        isKeyboard = PlayerPrefs.GetInt("isKeyboard") == 1;
+        //isKeyboard = PlayerPrefs.GetInt("isKeyboard") == 1;
+        isKeyboard = false;
     }
 
     Vector2 fingerDown;
